@@ -25,13 +25,6 @@ I have a proven track record of designing machine learning systems, statistical 
 
 <br>
 
-### 📊 GitHub Stats
-
-<!-- Dynamic GitHub Stats Cards -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=omkarbhat1995&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 ### 🛠️ Technical Arsenal
 
 | Category | Technologies & Tools |
