@@ -25,8 +25,6 @@ I have a proven track record of designing machine learning systems, statistical 
 
 <br>
 
-### 🛠️ Technical Arsenal
-
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | Python, C/C++, C#, SQL, JavaScript, HTML/CSS, PHP, R |
