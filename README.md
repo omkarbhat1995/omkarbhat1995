@@ -29,8 +29,7 @@ I have a proven track record of designing machine learning systems, statistical 
 
 <!-- Dynamic GitHub Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarbhat1995&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhat1995&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=omkarbhat1995&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ### 🛠️ Technical Arsenal
