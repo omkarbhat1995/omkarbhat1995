@@ -1,9 +1,9 @@
 # Hi there, I'm Omkar Bhat 👋
 
 > Data Scientist and Systems Engineer bridging the gap between low-level systems programming and advanced predictive analytics. 
-
+---
 I have a proven track record of designing machine learning systems, statistical modeling, and executing large-scale data engineering pipelines. With dual Master's degrees in Computer Science and Systems Engineering from the University of Virginia, my expertise spans from developing end-to-end ML architectures to deep protocol analysis. Currently, I am expanding my data-driven solutions as a Data Science Intern at NexGen Analytix, while continuing to hone my skills in advanced Python (including object-oriented programming patterns and iterable unpacking) and complex SQL querying for database management.
-
+---
 ### 🛠️ Technical Arsenal
 
 <!-- Language & Tech Badges -->
@@ -32,6 +32,9 @@ I have a proven track record of designing machine learning systems, statistical 
 | **Systems & Security** | Reverse Engineering, Protocol Analysis, Binary Patching, Network Socket Programming |
 | **Tools & Databases** | Git, MySQL, MongoDB, VSCode, Ghidra, IDA Pro, Intel Pin Tool, Mitre Caldera, Power BI, Tableau, MATLAB |
 | **MLOps & Engineering:** | Docker, FastAPI, Apache Airflow, SQLite, Streamlit|
+
+---
+
 ### 💼 Professional Experience
 
 *   **Data Science Intern | NexGen Analytix** (June 2026 – Present)
@@ -44,6 +47,8 @@ I have a proven track record of designing machine learning systems, statistical 
 *   **Network Software Intern | Prelude Netcomms** (Dec 2017 – June 2018)
     *   Optimized workflows by scrutinizing enterprise packet metrics, successfully reducing system downtime by 10%.
 
+---
+
 ### 🚀 Featured Engineering & Data Projects
 
 *   **[PCORE Malware Replica & Architecture](https://github.com/omkarbhat1995/Eomtet-Public):** A deep dive into systems security, demonstrating advanced knowledge of Command & Control (C2) infrastructure and data engineering.
@@ -54,6 +59,7 @@ I have a proven track record of designing machine learning systems, statistical 
 * **[End-to-End MLOps Network Intrusion API](https://github.com/omkarbhat1995/Network-Intrusion-Detection):** A containerized ML deployment architecture. Trained a Random Forest classifier on synthetic network telemetry and served it via a high-performance FastAPI REST API wrapped in a Docker container.
 * **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster):** An applied machine learning Streamlit dashboard utilizing XGBoost to predict traffic volume based on real-world UCI Metro data, weather conditions, and time-series feature engineering.
 
+---
 
 ### 🎓 Education & Certifications
 
@@ -62,6 +68,7 @@ I have a proven track record of designing machine learning systems, statistical 
 *   **Bachelor of Engineering in Information Technology** | Savitribai Phule Pune University (GPA: 3.75)
 *   **Certifications:** Advanced Certification Program in Data Science & Analytics (IIT Patna, Aug 2026).
 *   **Certifications:** Veracode Security Labs Champion Levels 1, 2, and 3 (Mar 2021).
+---
 
 ### 📚 Academic Research & Publications
 
@@ -72,9 +79,19 @@ I have a proven track record of designing machine learning systems, statistical 
     *   "Applications of IoT and IoT: Vision 2020" (2018) (DOI: 10.17148/IARJSET.2018.516)
     *   "IoT based Counteracting Services for CARDIAC Patients" (2017) (DOI: 10.17148/IJARCCE.2017.61228)
 
+---
+
 ### 📫 Let's Connect
 
 *   **Email:** bhatomkar1995@gmail.com
 *   **LinkedIn:** [linkedin.com/in/omkar-bhat-bb85475a](https://linkedin.com/in/omkar-bhat-bb85475a)
 *   **GitHub:** [github.com/omkarbhat1995](https://github.com/omkarbhat1995)
 *   **Google Scholar:** Omkar Bhat
+
+---
+
+### 📈 GitHub Stats
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarbhat1995&show_icons=true&theme=radical)
+
+📫 **Let's Connect:** [LinkedIn Profile Link](https://linkedin.com/in/omkar-bhat-bb85475a) | [Portfolio/Website Link]
+---
