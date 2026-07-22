@@ -2,7 +2,8 @@
 
 **Data Scientist & Systems Engineer | Dual M.S. from UVA** I specialize in bridging the gap between advanced machine learning algorithms and low-level systems architecture. I build models that uncover hidden patterns and engineer the robust, scalable pipelines required to deploy them in production environments.
 
-#### I have a proven track record of designing machine learning systems, statistical modeling, and executing large-scale data engineering pipelines. With dual Master's degrees in Computer Science and Systems Engineering from the University of Virginia, my expertise spans from developing end-to-end ML architectures to deep protocol analysis. Currently, I am expanding my data-driven solutions as a Data Science Intern at NexGen Analytix, while continuing to hone my skills in advanced Python (including object-oriented programming patterns and iterable unpacking) and complex SQL querying for database management.
+**Data Scientist & Systems Engineer | Dual M.S., UVA**
+I build machine learning models and engineer the robust, scalable pipelines required to deploy them. With a dual background in CS and Systems Engineering, I specialize in bridging the gap between advanced algorithms and low-level systems architecture. Currently a Data Science Intern at NexGen Analytix, focused on large-scale data engineering, advanced Python, and complex SQL database management.
 ---
 ### 🛠️ Technical Arsenal
 
