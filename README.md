@@ -1,7 +1,7 @@
 # Hi there, I'm Omkar Bhat 👋
 
 > Data Scientist and Systems Engineer bridging the gap between low-level systems programming and advanced predictive analytics. 
----
+
 I have a proven track record of designing machine learning systems, statistical modeling, and executing large-scale data engineering pipelines. With dual Master's degrees in Computer Science and Systems Engineering from the University of Virginia, my expertise spans from developing end-to-end ML architectures to deep protocol analysis. Currently, I am expanding my data-driven solutions as a Data Science Intern at NexGen Analytix, while continuing to hone my skills in advanced Python (including object-oriented programming patterns and iterable unpacking) and complex SQL querying for database management.
 ---
 ### 🛠️ Technical Arsenal
@@ -89,9 +89,5 @@ I have a proven track record of designing machine learning systems, statistical 
 *   **Google Scholar:** Omkar Bhat
 
 ---
-
-### 📈 GitHub Stats
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarbhat1995&show_icons=true&theme=radical)
-
 📫 **Let's Connect:** [LinkedIn Profile Link](https://linkedin.com/in/omkar-bhat-bb85475a) | [Portfolio/Website Link]
 ---
