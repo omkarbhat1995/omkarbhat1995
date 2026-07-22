@@ -1,9 +1,7 @@
-# Hi there, I'm Omkar Bhat 👋
+# Hi there, I'm [Omkar Bhat](https://about.me/omkarbhat/) 👋
 
-## **Data Scientist & Systems Engineer | Dual M.S. from UVA** I specialize in bridging the gap between advanced machine learning algorithms and low-level systems architecture. I build models that uncover hidden patterns and engineer the robust, scalable pipelines required to deploy them in production environments.
-
-**Data Scientist & Systems Engineer | Dual M.S., UVA**
-I build machine learning models and engineer the robust, scalable pipelines required to deploy them. With a dual background in CS and Systems Engineering, I specialize in bridging the gap between advanced algorithms and low-level systems architecture. Currently a Data Science Intern at NexGen Analytix, focused on large-scale data engineering, advanced Python, and complex SQL database management.
+**Data Scientist & Systems Engineer | Dual M.S., UVA**  
+I build machine learning models and engineer the robust, scalable pipelines required to deploy them. With a dual background in Computer Science and Systems Engineering, I specialize in bridging the gap between advanced algorithms and low-level systems architecture. Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data engineering, advanced Python, and complex SQL database management to drive business decision-making.
 ---
 ### 🛠️ Technical Arsenal
 
@@ -85,10 +83,9 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 ### 📫 Let's Connect
 
 *   **Email:** bhatomkar1995@gmail.com
-*   **LinkedIn:** [linkedin.com/in/omkar-bhat-bb85475a](https://linkedin.com/in/omkar-bhat-bb85475a)
+*   **LinkedIn:** [omkar-bhat-bb85475a](https://linkedin.com/in/omkar-bhat-bb85475a)
 *   **GitHub:** [github.com/omkarbhat1995](https://github.com/omkarbhat1995)
 *   **Google Scholar:** Omkar Bhat
 
 ---
-📫 **Let's Connect:** [LinkedIn Profile Link](https://linkedin.com/in/omkar-bhat-bb85475a) | [Portfolio/Website Link]
----
+📫 **Let's Connect:** [LinkedIn Profile Link](https://linkedin.com/in/omkar-bhat-bb85475a) 
