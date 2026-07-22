@@ -46,10 +46,14 @@ I have a proven track record of designing machine learning systems, statistical 
 
 ### 🚀 Featured Engineering & Data Projects
 
-*   **PCORE (Large-Scale Data Engineering & Analytics):** Orchestrated a data pipeline generating a 3TB+ dataset of network traffic using Mitre Caldera and Ghidra. Aggregated over 100,000 packets to train predictive models, achieving a 95% host identification rate.
+*   **[PCORE Malware Replica & Architecture](https://github.com/omkarbhat1995/Eomtet-Public):** A deep dive into systems security, demonstrating advanced knowledge of Command & Control (C2) infrastructure and data engineering.
 *   **Colliding Condition Detection in Smart Cities:** Constructed deep learning models (RNNs and Spatio-Temporal Graph Convolutional Networks) trained on 10,000+ simulated events to prioritize urban resources, achieving a 95% accuracy rate in selecting optimal resolutions.
-*   **Binary Patching Tool for Executables:** Authored low-level C/C++ utilities capable of hot-patching binary execution paths in memory. Bypassed full-compilation overhead and reduced average update speeds by over 90%.
-*   **Analysis of Meta-heuristic Optimization Algorithms:** Programmatically recreated mathematical models using Python and MATLAB to evaluate emerging meta-heuristics and identify underlying patterns and operational effectiveness.
+*   **[Binary Patching Tool for Executables](https://github.com/omkarbhat1995/Binary_Patcher):** Authored low-level C/C++ utilities capable of hot-patching binary execution paths in memory. Bypassed full-compilation overhead and reduced average update speeds by over 90%.
+*   **[Analysis of Meta-heuristic Optimization Algorithms](https://github.com/omkarbhat1995/Citation-Metrics-Analysis):** Programmatically recreated mathematical models using Python and MATLAB to evaluate emerging meta-heuristics and identify underlying patterns and operational effectiveness.
+* **[Large-Scale ETL Financial Fraud Pipeline](https://github.com/omkarbhat1995/ETL-Financial-Fraud):** An enterprise-grade data engineering pipeline that automatically extracts live Kaggle data via API, processes massive datasets using distributed PySpark, and loads optimized Parquet partitions into a local SQLite data warehouse.
+* **[End-to-End MLOps Network Intrusion API](https://github.com/omkarbhat1995/Network-Intrusion-Detection):** A containerized ML deployment architecture. Trained a Random Forest classifier on synthetic network telemetry and served it via a high-performance FastAPI REST API wrapped in a Docker container.
+* **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster):** An applied machine learning Streamlit dashboard utilizing XGBoost to predict traffic volume based on real-world UCI Metro data, weather conditions, and time-series feature engineering.
+
 
 ### 🎓 Education & Certifications
 
