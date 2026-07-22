@@ -28,10 +28,10 @@ I have a proven track record of designing machine learning systems, statistical 
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | Python, C/C++, C#, SQL, JavaScript, HTML/CSS, PHP, R |
-| **Data Science & ML** | Statistical/Predictive Modeling, Neural Networks (RNNs, ST-GCNs), Time-Series Analysis |
+| **Data Science & ML** | Scikit-Learn, XGBoost, Pandas, PySpark, Time-Series Forecasting, Statistical/Predictive Modeling, Neural Networks (RNNs, ST-GCNs), Time-Series Analysis |
 | **Systems & Security** | Reverse Engineering, Protocol Analysis, Binary Patching, Network Socket Programming |
 | **Tools & Databases** | Git, MySQL, MongoDB, VSCode, Ghidra, IDA Pro, Intel Pin Tool, Mitre Caldera, Power BI, Tableau, MATLAB |
-
+| **MLOps & Engineering:** | Docker, FastAPI, Apache Airflow, SQLite, Streamlit|
 ### 💼 Professional Experience
 
 *   **Data Science Intern | NexGen Analytix** (June 2026 – Present)
