@@ -48,6 +48,11 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 
 ---
 
+### Power BI Projects
+
+* **[Hospital Healthcare Management]: ** Prebuilt Dashboard 
+---
+
 ### 🚀 Featured Engineering & Data Projects
 
 *   **[PCORE Malware Replica & Architecture](https://github.com/omkarbhat1995/Eomtet-Public):** A deep dive into systems security, demonstrating advanced knowledge of Command & Control (C2) infrastructure and data engineering.
