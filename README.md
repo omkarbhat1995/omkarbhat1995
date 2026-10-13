@@ -50,7 +50,9 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 
 ### Power BI Projects
 
-* **[Hospital Healthcare Management](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards):** Prebuilt Dashboard which transforms raw hospital data into actionable intelligence, enabling healthcare administrators to optimize resource allocation, monitor patient satisfaction, and track critical care metrics.
+* **[Hospital Healthcare Management](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards):** Dashboard which transforms raw hospital data into actionable intelligence, enabling healthcare administrators to optimize resource allocation, monitor patient satisfaction, and track critical care metrics.
+
+* **[Financial Fraud Command Center](https://github.com/omkarbhat1995/Financial-Fraud-Command-Center):**Dashboard transforms raw telemetry into actionable intelligence, enabling analysts to identify anomalous behavior, track system accuracy, and monitor multi-vector fraud attempts.
 ---
 
 ### 🚀 Featured Engineering & Data Projects
