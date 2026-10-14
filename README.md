@@ -40,11 +40,13 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 
 *   **Data Science Intern | NexGen Analytix** (June 2026 – Present)
     *   Supporting the development of data-driven solutions using Python and SQL to assist in business decision-making.
+<!--
 *   **Graduate Teaching Assistant | University of Virginia** (Aug 2018 – May 2024)
     *   Supervised an instructional engineering team of 13 Teaching Assistants for Software Development Methods courses. 
     *   Assessed complex programmatic logic and algorithmic efficiency models for over 500 engineering students.
 *   **Graduate Research Assistant | University of Virginia** (Aug 2018 – Dec 2018)
     *   Spearheaded deep data analysis on medical device networks (X-rays, MRIs) to isolate critical telemetry anomalies and unpatched flaws.
+-->
 *   **Network Software Intern | Prelude Netcomms** (Dec 2017 – June 2018)
     *   Optimized workflows by scrutinizing enterprise packet metrics, successfully reducing system downtime by 10%.
 
