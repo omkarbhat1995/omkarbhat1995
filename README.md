@@ -59,14 +59,14 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 
 ## 📊 Featured Data Analytics Projects (Power BI, SQL & Excel)
 
-* **Interactive Business Intelligence Dashboards (Power BI & Tableau)**  
-  Designed and deployed dynamic reporting solutions translating complex datasets into actionable insights. Engineered structured data models to construct interactive heatmaps, continuous timeline charts, and drill-down reports using [Power BI](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards), enabling rapid, data-driven business decision-making.
+* **Interactive Business Intelligence Dashboards ([Power BI](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards) & Tableau)**  
+  Designed and deployed dynamic reporting solutions translating complex datasets into actionable insights. Engineered structured data models to construct interactive heatmaps, continuous timeline charts, and drill-down reports using Power BI, enabling rapid, data-driven business decision-making.
 
-* **Large-Scale ETL Financial Fraud Pipeline (SQL & PySpark)**  
-  Architected an enterprise-grade data engineering pipeline extracting live transaction data via API. Processed massive structured datasets using distributed PySpark and loaded optimized Parquet partitions into a SQLite and [MySQL](https://github.com/omkarbhat1995/Library-Management-System) data warehouse, establishing a high-availability relational database foundation for fraud detection queries.
+* **Large-Scale ETL Financial Fraud Pipeline ([SQL](https://github.com/omkarbhat1995/Library-Management-System) & PySpark)**  
+  Architected an enterprise-grade data engineering pipeline extracting live transaction data via API. Processed massive structured datasets using distributed PySpark and loaded optimized Parquet partitions into a SQLite and MySQL data warehouse, establishing a high-availability relational database foundation for fraud detection queries.
 
-* **Advanced Excel Analytics & Automated Reporting**  
-  Developed robust [Excel](https://github.com/omkarbhat1995/Sales-Data-Analysis-and-Dashboard)-based analytical models for exploratory data analysis and ad-hoc reporting. Leveraged Power Query, advanced statistical functions, and dynamic PivotTables to automate repetitive data transformations, streamlining metric reporting workflows across cross-functional teams.
+* **Advanced [Excel](https://github.com/omkarbhat1995/Sales-Data-Analysis-and-Dashboard) Analytics & Automated Reporting**  
+  Developed robust Excel-based analytical models for exploratory data analysis and ad-hoc reporting. Leveraged Power Query, advanced statistical functions, and dynamic PivotTables to automate repetitive data transformations, streamlining metric reporting workflows across cross-functional teams.
 
 ---
 
