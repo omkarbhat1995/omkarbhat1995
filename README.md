@@ -55,6 +55,10 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 * **[Sales-Data-Analysis-and-Dashboard](https://github.com/omkarbhat1995/Sales-Data-Analysis-and-Dashboard):** Project features comprehensive data cleaning steps, handling of missing values, and the creation of an interactive dashboard to visualize sales performance across different dimensions.
 * **[Blinkit-Grocery-Data-Dashboard](https://github.com/omkarbhat1995/Blinkit-Grocery-Data-Dashboard):** 
 ---
+### SQL Project
+* **[Library-Management-System](https://github.com/omkarbhat1995/Library-Management-System):** Project features a Python-based Streamlit frontend connected to a MySQL database to help librarians manage books, users, and transactions efficiently.
+
+---
 ### Power BI Projects
 
 * **[Hospital Healthcare Management](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards):** Dashboard which transforms raw hospital data into actionable intelligence, enabling healthcare administrators to optimize resource allocation, monitor patient satisfaction, and track critical care metrics.
