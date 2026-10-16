@@ -25,7 +25,7 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 </div>
 
 <br>
-
+<!--
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | Python, C/C++, C#, SQL, JavaScript, HTML/CSS, PHP, R |
@@ -33,7 +33,12 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 | **Systems & Security** | Reverse Engineering, Protocol Analysis, Binary Patching, Network Socket Programming |
 | **Tools & Databases** | Git, MySQL, MongoDB, VSCode, Ghidra, IDA Pro, Intel Pin Tool, Mitre Caldera, Power BI, Tableau, MATLAB |
 | **MLOps & Engineering:** | Docker, FastAPI, Apache Airflow, SQLite, Streamlit|
-
+-->
+## 🛠️ Technical Arsenal
+- **Data Science & ML:** Python, Scikit-Learn, XGBoost, Pandas, PySpark, PyTorch (RNNs, ST-GCNs), Time-Series Forecasting
+- **Data Visualization & Analytics:** Power BI, Tableau, Advanced Excel, Streamlit
+- **Systems & Databases:** SQL, MySQL Workbench, SQLite, MongoDB, Docker, FastAPI
+- **Languages:** Python, C/C++, C#, JavaScript, R
 ---
 
 ### 💼 Professional Experience
@@ -51,9 +56,25 @@ I build machine learning models and engineer the robust, scalable pipelines requ
     *   Optimized workflows by scrutinizing enterprise packet metrics, successfully reducing system downtime by 10%.
 
 ---
+
+## 📊 Featured Data Analytics Projects (Power BI, SQL & Excel)
+
+* **Interactive Business Intelligence Dashboards (Power BI & Tableau)**  
+  Designed and deployed dynamic reporting solutions translating complex datasets into actionable insights. Engineered structured data models to construct interactive heatmaps, continuous timeline charts, and drill-down reports using [Power BI](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards), enabling rapid, data-driven business decision-making.
+
+* **Large-Scale ETL Financial Fraud Pipeline (SQL & PySpark)**  
+  Architected an enterprise-grade data engineering pipeline extracting live transaction data via API. Processed massive structured datasets using distributed PySpark and loaded optimized Parquet partitions into a SQLite and [MySQL](https://github.com/omkarbhat1995/Library-Management-System) data warehouse, establishing a high-availability relational database foundation for fraud detection queries.
+
+* **Advanced Excel Analytics & Automated Reporting**  
+  Developed robust [Excel](https://github.com/omkarbhat1995/Sales-Data-Analysis-and-Dashboard)-based analytical models for exploratory data analysis and ad-hoc reporting. Leveraged Power Query, advanced statistical functions, and dynamic PivotTables to automate repetitive data transformations, streamlining metric reporting workflows across cross-functional teams.
+
+---
+
+<!--
 ### Excel Projects
 * **[Sales-Data-Analysis-and-Dashboard](https://github.com/omkarbhat1995/Sales-Data-Analysis-and-Dashboard):** Project features comprehensive data cleaning steps, handling of missing values, and the creation of an interactive dashboard to visualize sales performance across different dimensions.
 * **[Blinkit-Grocery-Data-Dashboard](https://github.com/omkarbhat1995/Blinkit-Grocery-Data-Dashboard):** 
+
 ---
 ### SQL Project
 * **[Library-Management-System](https://github.com/omkarbhat1995/Library-Management-System):** Project features a Python-based Streamlit frontend connected to a MySQL database to help librarians manage books, users, and transactions efficiently.
@@ -65,9 +86,9 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 
 * **[Financial Fraud Command Center](https://github.com/omkarbhat1995/Financial-Fraud-Command-Center):** Dashboard transforms raw telemetry into actionable intelligence, enabling analysts to identify anomalous behavior, track system accuracy, and monitor multi-vector fraud attempts.
 ---
-
+-->
 ### 🚀 Featured Engineering & Data Projects
-
+<!--
 *   **[PCORE Malware Replica & Architecture](https://github.com/omkarbhat1995/Eomtet-Public):** A deep dive into systems security, demonstrating advanced knowledge of Command & Control (C2) infrastructure and data engineering.
 *   **[Colliding Condition Detection in Smart Cities](https://github.com/omkarbhat1995/Smart-City-Collision-Detection):** Constructed deep learning models (RNNs and Spatio-Temporal Graph Convolutional Networks) trained on 10,000+ simulated events to prioritize urban resources, achieving a 95% accuracy rate in selecting optimal resolutions.
 *   **[Binary Patching Tool for Executables](https://github.com/omkarbhat1995/Binary_Patcher):** Authored low-level C/C++ utilities capable of hot-patching binary execution paths in memory. Bypassed full-compilation overhead and reduced average update speeds by over 90%.
@@ -75,7 +96,11 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 * **[Large-Scale ETL Financial Fraud Pipeline](https://github.com/omkarbhat1995/ETL-Financial-Fraud):** An enterprise-grade data engineering pipeline that automatically extracts live Kaggle data via API, processes massive datasets using distributed PySpark, and loads optimized Parquet partitions into a local SQLite data warehouse.
 * **[End-to-End MLOps Network Intrusion API](https://github.com/omkarbhat1995/Network-Intrusion-Detection):** A containerized ML deployment architecture. Trained a Random Forest classifier on synthetic network telemetry and served it via a high-performance FastAPI REST API wrapped in a Docker container.
 * **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster):** An applied machine learning Streamlit dashboard utilizing XGBoost to predict traffic volume based on real-world UCI Metro data, weather conditions, and time-series feature engineering.
-
+-->
+* **[End-to-End MLOps Network Intrusion API](https://github.com/omkarbhat1995/Network-Intrusion-Detection):** Containerized ML deployment architecture serving a Random Forest classifier trained on synthetic network telemetry via a high-performance FastAPI REST API and Uvicorn within Docker.
+* **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster):** Applied machine learning Streamlit dashboard utilizing XGBoost to predict urban traffic volume based on UCI Metro data and time-series feature engineering.
+* **[PCORE Malware Replica & Architecture](https://github.com/omkarbhat1995/Eomtet-Public):** Deep dive into systems security and data engineering, generating a 3TB+ dataset of network traffic and evaluating host identification within sandboxed Docker environments.
+* **[Colliding Condition Detection in Smart Cities](https://github.com/omkarbhat1995/Smart-City-Collision-Detection):** Built deep learning models (RNNs and Spatio-Temporal Graph Convolutional Networks) in PyTorch to detect events, achieving 95% accuracy in prioritizing urban resources.
 ---
 
 ### 🎓 Education & Certifications
@@ -83,8 +108,7 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 *   **Master of Science in Systems Engineering** | University of Virginia (GPA: 3.81)
 *   **Master of Computer Science** | University of Virginia (GPA: 3.80)
 *   **Bachelor of Engineering in Information Technology** | Savitribai Phule Pune University (GPA: 3.75)
-*   **Certifications:** Advanced Certification Program in Data Science & Analytics (IIT Patna, Aug 2026).
-*   **Certifications:** Veracode Security Labs Champion Levels 1, 2, and 3 (Mar 2021).
+*   **Certifications:** Advanced Certification in Data Science & Analytics (NASSCOM, FutureSkills Prime), Veracode Security Labs Champion Level 3
 ---
 
 ### 📚 Academic Research & Publications
