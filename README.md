@@ -51,7 +51,10 @@ I build machine learning models and engineer the robust, scalable pipelines requ
     *   Optimized workflows by scrutinizing enterprise packet metrics, successfully reducing system downtime by 10%.
 
 ---
-
+### Excel Projects
+* **[Sales-Data-Analysis-and-Dashboard](https://github.com/omkarbhat1995/Sales-Data-Analysis-and-Dashboard):** Project features comprehensive data cleaning steps, handling of missing values, and the creation of an interactive dashboard to visualize sales performance across different dimensions.
+* **[Blinkit-Grocery-Data-Dashboard](https://github.com/omkarbhat1995/Blinkit-Grocery-Data-Dashboard):** 
+---
 ### Power BI Projects
 
 * **[Hospital Healthcare Management](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards):** Dashboard which transforms raw hospital data into actionable intelligence, enabling healthcare administrators to optimize resource allocation, monitor patient satisfaction, and track critical care metrics.
