@@ -5,13 +5,14 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data engineering, advanced Python, and complex SQL database management to drive business decision-making.
 ---
 ## Table of Contents:
-- [Technical Arsenal] (##-technical-arsenal)
-- [Professional Experience]
-- [Featured Data Analytics Projects]
-- [Featured Engineering & Data Projects]
-- [Education & Certifications]
-- [Academic Research & Publications]
-- [Let's Connect]
+- [Technical Arsenal](#technical-arsenal)
+- [Professional Experience](#professional-experience)
+- [Featured Data Analytics Projects](#featured-data-analytics-projects-power-bi-sql--excel)
+- [Featured Engineering & Data Projects](#featured-engineering--data-projects)
+- [Education & Certifications](#education--certifications)
+- [Academic Research & Publications](#academic-research--publications)
+- [Let's Connect](#lets-connect)
+- 
 ### 🛠️ Technical Arsenal
 
 <!-- Language & Tech Badges -->
@@ -139,4 +140,4 @@ Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data 
 *   **Google Scholar:** Omkar Bhat
 
 ---
-📫 **Let's Connect:** [LinkedIn Profile Link](https://linkedin.com/in/omkar-bhat-bb85475a) 
+ 
