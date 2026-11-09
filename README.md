@@ -7,13 +7,13 @@ Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data 
 ---
 
 ## 📑 Table of Contents
-- [Technical Arsenal](#technical-arsenal)
-- [Professional Experience](#professional-experience)
-- [Featured Data Analytics Projects](#featured-data-analytics-projects-power-bi-sql--excel)
-- [Featured Engineering & Data Projects](#featured-engineering--data-projects)
-- [Education & Certifications](#education--certifications)
-- [Academic Research & Publications](#academic-research--publications)
-- [Let's Connect](#lets-connect)
+- [Technical Arsenal](#️-technical-arsenal)
+- [Professional Experience](#-professional-experience)
+- [Featured Data Analytics Projects](#-featured-data-analytics-projects-power-bi-sql--excel)
+- [Featured Engineering & Data Projects](#-featured-engineering--data-projects)
+- [Education & Certifications](#-education--certifications)
+- [Academic Research & Publications](#-academic-research--publications)
+- [Let's Connect](#-lets-connect)
 
 ---
 
