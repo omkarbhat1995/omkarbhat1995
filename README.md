@@ -5,7 +5,7 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data engineering, advanced Python, and complex SQL database management to drive business decision-making.
 ---
 ## Table of Contents:
-- [Technical Arsenal] (#-technical-arsenal)
+- [Technical Arsenal] (##-technical-arsenal)
 - [Professional Experience]
 - [Featured Data Analytics Projects]
 - [Featured Engineering & Data Projects]
