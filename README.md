@@ -173,6 +173,6 @@ Currently a **Data Science Intern at NexGen Analytix** in Pune, I focus on large
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarbhat1995&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Omkar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarbhat1995&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide=prs" alt="Omkar's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhat1995&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </div>
