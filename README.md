@@ -146,10 +146,33 @@ Currently a **Data Science Intern at NexGen Analytix** in Pune, I focus on large
 
 ---
 
+---
+
 ## 📫 Let's Connect
 
-* **Portfolio:** [about.me/omkarbhat](https://about.me/omkarbhat/)
-* **Email:** bhatomkar1995@gmail.com
-* **LinkedIn:** [linkedin.com/in/omkar-bhat-bb85475a](https://linkedin.com/in/omkar-bhat-bb85475a)
-* **GitHub:** [github.com/omkarbhat1995](https://github.com/omkarbhat1995)
-* **Google Scholar:** Omkar Bhat
+<div align="center">
+
+  <a href="https://linkedin.com/in/omkar-bhat-bb85475a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhatomkar1995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/omkarbhat1995">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://about.me/omkarbhat/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://scholar.google.com/">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarbhat1995&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Omkar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhat1995&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</div>
