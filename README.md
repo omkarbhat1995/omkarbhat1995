@@ -1,24 +1,27 @@
 # Hi there, I'm [Omkar Bhat](https://about.me/omkarbhat/) 👋
 
-**Data Scientist & Systems Engineer | Dual M.S., UVA**  
-I build machine learning models and engineer the robust, scalable pipelines required to deploy them. With a dual background in Computer Science and Systems Engineering, I specialize in bridging the gap between advanced algorithms and low-level systems architecture. 
-Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data engineering, advanced Python, and complex SQL database management to drive business decision-making.
+**Data Scientist, ML Engineer & Systems Architect | Dual M.S., UVA**  
+I build end-to-end machine learning models, interactive BI dashboards, and the scalable data pipelines required to deploy them. With a dual background in Computer Science and Systems Engineering, I bridge the gap between predictive algorithms, NLP/deep learning, and production infrastructure.
+
+Currently a **Data Science Intern at NexGen Analytix** in Pune, I focus on large-scale data engineering, Python ML pipelines, and relational database architecture to drive business decision-making.
 
 ---
 
 ## 📑 Table of Contents
-- [Technical Arsenal](#️-technical-arsenal)
-- [Professional Experience](#-professional-experience)
-- [Featured Data Analytics Projects](#-featured-data-analytics-projects-power-bi-sql--excel)
-- [Featured Engineering & Data Projects](#-featured-engineering--data-projects)
-- [Education & Certifications](#-education--certifications)
-- [Academic Research & Publications](#-academic-research--publications)
-- [Let's Connect](#-lets-connect)
+- [Technical Arsenal](#technical-arsenal)
+- [Professional Experience](#professional-experience)
+- [Featured Machine Learning & AI Projects](#featured-machine-learning--ai-projects)
+- [Data Engineering & BI Analytics](#data-engineering--bi-analytics)
+- [Systems Architecture & Security Research](#systems-architecture--security-research)
+- [Education & Certifications](#education--certifications)
+- [Academic Research & Publications](#academic-research--publications)
+- [Let's Connect](#lets-connect)
 
 ---
 
 ## 🛠️ Technical Arsenal
 
+**Languages & Querying**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -28,76 +31,123 @@ Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </div>
 <br>
+
+**Machine Learning, NLP & Big Data**
 <div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </div>
 <br>
 
-- **Data Science & ML:** Python, Scikit-Learn, XGBoost, Pandas, PySpark, PyTorch (RNNs, ST-GCNs), Time-Series Forecasting
-- **Data Visualization & Analytics:** Power BI, Tableau, Advanced Excel, Streamlit
-- **Systems & Databases:** SQL, MySQL Workbench, SQLite, MongoDB, Docker, FastAPI
-- **Languages:** Python, C/C++, C#, JavaScript, R
+**Cloud, DevOps & Databases**
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+<br>
+
+**Business Intelligence & Analytics**
+<div align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</div>
+<br>
+
+- **Data Science & AI:** Python, Scikit-Learn, XGBoost, PyTorch (RNNs, LSTMs, ST-GCNs), Hugging Face, NLTK, Pandas, PySpark
+- **BI & Visualization:** Power BI (DAX, Power Query), Tableau, Advanced Excel, Streamlit
+- **Systems, MLOps & Databases:** AWS (EC2), Docker, Terraform, FastAPI, MySQL, SQLite, MongoDB, pytest
 
 ---
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 
-*   **Data Science Intern | NexGen Analytix** (June 2026 – Present)
-    *   Supporting the development of data-driven solutions using Python and SQL to assist in business decision-making.
-*   **Network Software Intern | Prelude Netcomms** (Dec 2017 – June 2018)
-    *   Optimized workflows by scrutinizing enterprise packet metrics, successfully reducing system downtime by 10%.
-
----
-
-## 📊 Featured Data Analytics Projects (Power BI, SQL & Excel)
-
-* **Interactive Business Intelligence Dashboards ([Power BI](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards) & Tableau)**  
-  Designed and deployed dynamic reporting solutions translating complex datasets into actionable insights. Engineered structured data models to construct interactive heatmaps, continuous timeline charts, and drill-down reports using Power BI, enabling rapid, data-driven business decision-making.
-
-* **Large-Scale ETL Financial Fraud Pipeline ([SQL](https://github.com/omkarbhat1995/Library-Management-System) & PySpark)**  
-  Architected an enterprise-grade data engineering pipeline extracting live transaction data via API. Processed massive structured datasets using distributed PySpark and loaded optimized Parquet partitions into a SQLite and MySQL data warehouse, establishing a high-availability relational database foundation for fraud detection queries.
-
-* **Advanced [Excel](https://github.com/omkarbhat1995/Sales-Data-Analysis-and-Dashboard) Analytics & Automated Reporting**  
-  Developed robust Excel-based analytical models for exploratory data analysis and ad-hoc reporting. Leveraged Power Query, advanced statistical functions, and dynamic PivotTables to automate repetitive data transformations, streamlining metric reporting workflows across cross-functional teams.
+* **Data Science Intern | NexGen Analytix** *(June 2026 – Present)*
+  * Building end-to-end data pipelines, predictive analytics models, and complex SQL workflows in Python to support enterprise decision-making.
+* **Graduate Research Orchestrator (DARPA PCORE) | University of Virginia** *(2019 – 2022)*
+  * Architected sandboxed C/C++ network replicas and generated a 3TB+ network telemetry dataset using Python, Pandas, Docker, and AWS to evaluate host identification under adversarial conditions.
+* **Network Software Intern | Prelude Netcomms** *(Dec 2017 – June 2018)*
+  * Optimized network workflows by analyzing enterprise packet metrics, reducing system downtime by 10%.
 
 ---
 
-### 🚀 Featured Engineering & Data Projects
+## 🤖 Featured Machine Learning & AI Projects
 
-* **[End-to-End MLOps Network Intrusion API](https://github.com/omkarbhat1995/Network-Intrusion-Detection):** Containerized ML deployment architecture serving a Random Forest classifier trained on synthetic network telemetry via a high-performance FastAPI REST API and Uvicorn within Docker.
-* **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster):** Applied machine learning Streamlit dashboard utilizing XGBoost to predict urban traffic volume based on UCI Metro data and time-series feature engineering.
-* **[PCORE Malware Replica & Architecture](https://github.com/omkarbhat1995/Eomtet-Public):** Deep dive into systems security and data engineering, generating a 3TB+ dataset of network traffic and evaluating host identification within sandboxed Docker environments.
-* **[Colliding Condition Detection in Smart Cities](https://github.com/omkarbhat1995/Smart-City-Collision-Detection):** Built deep learning models (RNNs and Spatio-Temporal Graph Convolutional Networks) in PyTorch to detect events, achieving 95% accuracy in prioritizing urban resources.
-
----
-
-### 🎓 Education & Certifications
-
-*   **Master of Science in Systems Engineering** | University of Virginia (GPA: 3.81)
-*   **Master of Computer Science** | University of Virginia (GPA: 3.80)
-*   **Bachelor of Engineering in Information Technology** | Savitribai Phule Pune University (GPA: 3.75)
-*   **Certifications:** Advanced Certification in Data Science & Analytics (NASSCOM, FutureSkills Prime), Veracode Security Labs Champion Level 3
-
----
-
-### 📚 Academic Research & Publications
-
-*   **Thesis:** "On the Repeatability of Metaheuristic Research," University of Virginia, 2024. (DOI: 10.18130/2hjd h724)
-*   **Selected Papers:**
-    *   "Introduction to IoT" (2017) – *Over 350+ academic citations* (DOI: 10.17148/IJARCCE.2017.61229)
-    *   "Implementation of IoT in Smart Homes" (2018) (DOI: 10.17148/IARJSET.2018.517)
-    *   "Applications of IoT and IoT: Vision 2020" (2018) (DOI: 10.17148/IARJSET.2018.516)
-    *   "IoT based Counteracting Services for CARDIAC Patients" (2017) (DOI: 10.17148/IJARCCE.2017.61228)
+* **[Customer Churn Prediction Pipeline & FastAPI Service](https://github.com/omkarbhat1995/Customer-Churn-Prediction-Pipeline)**  
+  Engineered an end-to-end classification pipeline (Logistic Regression & Decision Trees) trained on a 1M-row customer dataset, complete with automated preprocessing and a real-time FastAPI inference microservice.
+* **[Multi-Ticker Stock Price Regression & Streamlit Dashboard](https://github.com/omkarbhat1995/SentinelGraph-Financial-Fraud-Triage-Compliance-Multi-Agent-System)**  
+  Built a modular regression pipeline (Linear, Polynomial, and Decision Tree models) trained across ~1,000 historical equity CSVs, paired with an interactive Streamlit app for trend visualization and model benchmarking.
+* **[Airline Fare Prediction Pipeline (`Airline_ML`)](https://github.com/omkarbhat1995/Airline_ML)**  
+  Developed a production-structured machine learning workflow featuring automated feature engineering, cross-validated regression tuning, and modular inference scripts for dynamic flight pricing.
+* **[AI Supply Chain Control Tower](https://github.com/omkarbhat1995/AI-Supply-Chain-Tower)**  
+  Combined NLP risk extraction, XGBoost delay regression, Random Forest damage classification, and time-series demand forecasting inside a unified Streamlit command dashboard.
+* **[Colliding Condition Detection in Smart Cities](https://github.com/omkarbhat1995/Smart-City-Collision-Detection)**  
+  Trained PyTorch deep learning models (RNNs and Spatio-Temporal Graph Convolutional Networks) achieving **95% accuracy** in urban event detection; containerized with Docker and provisioned on AWS EC2 via Terraform.
+* **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster)**  
+  Built an interactive Streamlit dashboard powered by XGBoost and lag/cyclical time-series features to forecast urban traffic volume on UCI Metro Interstate data.
 
 ---
 
-### 📫 Let's Connect
+## 📊 Data Engineering & BI Analytics
 
-*   **Email:** bhatomkar1995@gmail.com
-*   **LinkedIn:** [omkar-bhat-bb85475a](https://linkedin.com/in/omkar-bhat-bb85475a)
-*   **GitHub:** [github.com/omkarbhat1995](https://github.com/omkarbhat1995)
-*   **Google Scholar:** Omkar Bhat
+* **[Financial Fraud Command Center & Healthcare Operations Dashboards (Power BI)](https://github.com/omkarbhat1995/Hospital-Healthcare-Dashboards)**  
+  Designed star-schema data models and interactive Power BI reports featuring custom DAX KPIs, anomaly heatmaps, and drill-through executive views for fraud monitoring and hospital operations.
+* **[Enterprise ETL Financial Fraud Pipeline (`PySpark` & `SQLite`)](https://github.com/omkarbhat1995/ETL-Financial-Fraud)**  
+  Architected a hybrid PySpark-Pandas ETL pipeline extracting Kaggle financial transaction data via API, executing distributed transformations, and loading partitioned metrics into a local SQLite data warehouse.
+* **[Library Management System (`Streamlit` & `MySQL`)](https://github.com/omkarbhat1995/Library-Management-System)**  
+  Built a full-stack transactional database application backed by normalized MySQL schemas, stored procedures, and a Streamlit frontend for inventory and circulation analytics.
+* **[Automated Sales Analytics & Reporting (`Excel`)](https://github.com/omkarbhat1995/Sales-Data-Analysis-and-Dashboard)**  
+  Created dynamic Excel reporting workbooks utilizing Power Query, statistical functions, and interactive PivotTables to automate recurring KPI tracking.
+
+---
+
+## 🛡️ Systems Architecture & Security Research
+
+* **[End-to-End MLOps Network Intrusion Detection API](https://github.com/omkarbhat1995/Network-Intrusion-Detection)**  
+  Containerized a Random Forest intrusion classifier and batch PCAP processor using FastAPI, Uvicorn, and Docker for real-time network telemetry scoring.
+* **[Synthetic PCAP Traffic Generator (`PyTorch LSTM` & `Scapy`)](https://github.com/omkarbhat1995/Pcap-Generator)**  
+  Trained LSTM sequence models on UNB ISCX VPN-nonVPN and LORIA datasets paired with Scapy packet crafting to synthesize realistic encrypted network traffic.
+* **[PCORE Malware Replica & Telemetry Architecture](https://github.com/omkarbhat1995/Eomtet-Public)**  
+  Built isolated Docker network testbeds to capture and analyze 3TB+ of malware packet telemetry for behavioral host identification.
+
+---
+
+## 🎓 Education & Certifications
+
+* **Master of Science in Systems Engineering** | University of Virginia *(GPA: 3.81)*
+* **Master of Computer Science** | University of Virginia *(GPA: 3.80)*
+* **Bachelor of Engineering in Information Technology** | Savitribai Phule Pune University *(GPA: 3.75)*
+* **Certifications:**
+  * Advanced Certification in Data Science & Analytics — *IIT Patna, NASSCOM & FutureSkills Prime (2026)*
+  * Veracode Security Labs Champion — *Levels 1, 2 & 3*
+
+---
+
+## 📚 Academic Research & Publications
+
+* **Master's Thesis:** *"On the Repeatability of Metaheuristic Research,"* University of Virginia, 2024. (`DOI: 10.18130/2hjd-h724`)
+* **Peer-Reviewed Publications:**
+  * *"Introduction to IoT"* (2017) – **350+ academic citations** (`DOI: 10.17148/IJARCCE.2017.61229`)
+  * *"Implementation of IoT in Smart Homes"* (2018) (`DOI: 10.17148/IARJSET.2018.517`)
+  * *"Applications of IoT and IoT: Vision 2020"* (2018) (`DOI: 10.17148/IARJSET.2018.516`)
+  * *"IoT based Counteracting Services for CARDIAC Patients"* (2017) (`DOI: 10.17148/IJARCCE.2017.61228`)
+
+---
+
+## 📫 Let's Connect
+
+* **Portfolio:** [about.me/omkarbhat](https://about.me/omkarbhat/)
+* **Email:** bhatomkar1995@gmail.com
+* **LinkedIn:** [linkedin.com/in/omkar-bhat-bb85475a](https://linkedin.com/in/omkar-bhat-bb85475a)
+* **GitHub:** [github.com/omkarbhat1995](https://github.com/omkarbhat1995)
+* **Google Scholar:** Omkar Bhat
