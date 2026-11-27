@@ -144,7 +144,6 @@ Currently a **Data Science Intern at NexGen Analytix** in Pune, I focus on large
   * *"Applications of IoT and IoT: Vision 2020"* (2018) (`DOI: 10.17148/IARJSET.2018.516`)
   * *"IoT based Counteracting Services for CARDIAC Patients"* (2017) (`DOI: 10.17148/IJARCCE.2017.61228`)
 
----
 
 ---
 
@@ -172,7 +171,10 @@ Currently a **Data Science Intern at NexGen Analytix** in Pune, I focus on large
 
 <br>
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarbhat1995&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide=prs" alt="Omkar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhat1995&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="48%" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="48%" />
 </div>
