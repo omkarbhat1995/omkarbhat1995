@@ -8,14 +8,14 @@ Currently a **Data Science Intern at NexGen Analytix** in Pune, I focus on large
 ---
 
 ## 📑 Table of Contents
-- [Technical Arsenal](#technical-arsenal)
-- [Professional Experience](#professional-experience)
-- [Featured Machine Learning & AI Projects](#featured-machine-learning--ai-projects)
-- [Data Engineering & BI Analytics](#data-engineering--bi-analytics)
-- [Systems Architecture & Security Research](#systems-architecture--security-research)
-- [Education & Certifications](#education--certifications)
-- [Academic Research & Publications](#academic-research--publications)
-- [Let's Connect](#lets-connect)
+- [Technical Arsenal](#-technical-arsenal)
+- [Professional Experience](#-professional-experience)
+- [Featured Machine Learning & AI Projects](#-featured-machine-learning--ai-projects)
+- [Data Engineering & BI Analytics](#-data-engineering--bi-analytics)
+- [Systems Architecture & Security Research](#-systems-architecture--security-research)
+- [Education & Certifications](#-education--certifications)
+- [Academic Research & Publications](#-academic-research--publications)
+- [Let's Connect](#-lets-connect)
 
 ---
 
