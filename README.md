@@ -84,25 +84,25 @@ Currently a **Data Science Intern at NexGen Analytix** in Pune, I focus on large
 
 ## 🤖 Featured Machine Learning & AI Projects
 
-➤ **[SentinelGraph: Financial Fraud Triage & Compliance Multi-Agent System](https://github.com/omkarbhat1995/SentinelGraph-Financial-Fraud-Triage-Compliance-Multi-Agent-System)**  
+* **[SentinelGraph: Financial Fraud Triage & Compliance Multi-Agent System](https://github.com/omkarbhat1995/SentinelGraph-Financial-Fraud-Triage-Compliance-Multi-Agent-System)**  
   Architected a stateful multi-agent workflow using **LangGraph** and Python to automate suspicious transaction triage, compliance rule verification, and structured audit trail generation.
   
-➤ **[Customer Churn Prediction Pipeline & FastAPI Service](https://github.com/omkarbhat1995/Customer-Churn-Prediction-Pipeline)**  
+* **[Customer Churn Prediction Pipeline & FastAPI Service](https://github.com/omkarbhat1995/Customer-Churn-Prediction-Pipeline)**  
   Engineered an end-to-end classification pipeline (Logistic Regression & Decision Trees) trained on a 1M-row customer dataset, complete with automated preprocessing and a real-time FastAPI inference microservice.
   
-➤ **[Multi-Ticker Stock Price Regression & Streamlit Dashboard](https://github.com/omkarbhat1995/Stock-Price-Regression)** *(verify exact repo slug)*  
+* **[Multi-Ticker Stock Price Regression & Streamlit Dashboard](https://github.com/omkarbhat1995/Stock-Price-Regression)** *(verify exact repo slug)*  
   Built a modular regression pipeline (Linear, Polynomial, and Decision Tree models) trained across ~1,000 historical equity CSVs, paired with an interactive Streamlit app for trend visualization and model benchmarking.
   
-➤ **[Airline Fare Prediction Pipeline (`Airline_ML`)](https://github.com/omkarbhat1995/Airline_ML)**  
+* **[Airline Fare Prediction Pipeline (`Airline_ML`)](https://github.com/omkarbhat1995/Airline_ML)**  
   Developed a production-structured machine learning workflow featuring automated feature engineering, cross-validated regression tuning, and modular inference scripts for dynamic flight pricing.
   
-➤ **[AI Supply Chain Control Tower](https://github.com/omkarbhat1995/AI-Supply-Chain-Tower)**  
+*  **[AI Supply Chain Control Tower](https://github.com/omkarbhat1995/AI-Supply-Chain-Tower)**  
   Combined NLP risk extraction, XGBoost delay regression, Random Forest damage classification, and time-series demand forecasting inside a unified Streamlit command dashboard.
   
-➤ **[Colliding Condition Detection in Smart Cities](https://github.com/omkarbhat1995/Smart-City-Collision-Detection)**  
+* **[Colliding Condition Detection in Smart Cities](https://github.com/omkarbhat1995/Smart-City-Collision-Detection)**  
   Trained PyTorch deep learning models (RNNs and Spatio-Temporal Graph Convolutional Networks) achieving **95% accuracy** in urban event detection; containerized with Docker and provisioned on AWS EC2 via Terraform.
   
-➤ **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster)**  
+* **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster)**  
   Built an interactive Streamlit dashboard powered by XGBoost and lag/cyclical time-series features to forecast urban traffic volume on UCI Metro Interstate data.
   
 ---
